@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodePapa360/News-homepage.git"
+    "url": "git+https://github.com/CodeWithAlamin/News-homepage.git"
   },
   "author": "Alamin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CodePapa360/News-homepage/issues"
+    "url": "https://github.com/CodeWithAlamin/News-homepage/issues"
   },
-  "homepage": "https://github.com/CodePapa360/News-homepage#readme",
+  "homepage": "https://github.com/CodeWithAlamin/News-homepage#readme",
   "dependencies": {
     "parcel": "^2.8.3"
   },
